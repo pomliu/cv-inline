@@ -30,6 +30,7 @@ const Home = ({ className, location }) => {
   }
 
   const title = siteConfig.siteTitle
+  const subtitle = siteConfig.siteSubTitle
   const { keywords } = siteConfig
   return (
     <Layout location={location}>
@@ -41,6 +42,7 @@ const Home = ({ className, location }) => {
       <Hero
         heroImg={siteConfig.siteCover}
         title={title}
+        subtitle={subtitle}
       />
 
       <Wrapper className={className} >
