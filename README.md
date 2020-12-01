@@ -18,7 +18,6 @@ Create your resume in a few minutes with this totally responsive starter using R
 - Skills
 - Job experiences
 - Github repositories
-- Portifolio
 
 ### Features
 - Responsive Design, optimized for Mobile devices
