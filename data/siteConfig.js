@@ -8,8 +8,6 @@ module.exports = {
   githubUsername: 'ldrogou',
   authorAvatar: '/images/profil_gravatar.jpg',
   authorDescription: `Développeur, passionné par ce que je fais. Always interested in how the sites were made, I started to study HTML by hobby. <br />
-    In 2012 I started working as a support technician and I approached the developers.
-    In 2015, I started to study C # and started to contribute with the team giving maintenance in an application in C # and .NET. <br />
     Je travaille actuellement comme développeur back et principalement avec les technologies <strong>Java, Spring et Docker.</strong>`,
   skills: [
     {
