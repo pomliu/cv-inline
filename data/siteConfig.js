@@ -7,8 +7,8 @@ module.exports = {
   twitterUsername: 'dlau67071650',
   githubUsername: 'ldrogou',
   authorAvatar: '/images/profil_gravatar.jpg',
-  authorDescription: `Développeur, passionné par ce que je fais. Always interested in how the sites were made, I started to study HTML by hobby. <br />
-    Je travaille actuellement comme développeur back et principalement avec les technologies <strong>Java, Spring et Docker.</strong>`,
+  authorDescription: `Développeur Back, j'apprécie apprendre aux contact des autres. La formation continue est une façon de s'épanouir dans son travail.<br />
+  Je travaille actuellement comme développeur back et principalement avec les technologies <strong>Java, Spring, Docker et Kubernetes.</strong>`,
   skills: [
     {
       name: 'Java',
