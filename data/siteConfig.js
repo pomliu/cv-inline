@@ -5,7 +5,7 @@ module.exports = {
   keyWords: ['laurent', 'drogou', 'cv'],
   authorName: 'Laurent Drogou',
   twitterUsername: 'dlau67071650',
-  githubUsername: 'ldrogou',
+  githubUsername: 'pomliu',
   authorAvatar: '/images/profil_gravatar.jpg',
   authorDescription: `Développeur Back, j'apprécie apprendre aux contact des autres. La formation continue est une façon de s'épanouir dans son travail.<br />
   Je travaille actuellement comme développeur back et principalement avec les technologies <strong>Java, Spring, Docker et Kubernetes.</strong>`,
@@ -116,7 +116,7 @@ module.exports = {
   social: {
     twitter: "https://twitter.com/dlau67071650",
     linkedin: "https://www.linkedin.com/in/ldrogou",
-    github: "https://github.com/ldrogou",
+    github: "https://github.com/pomliu",
     email: "ldrogou@gmail.com"
   },
   siteUrl: 'https://laurent-drogou.fr',
